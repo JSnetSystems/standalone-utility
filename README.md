@@ -25,7 +25,7 @@ Password is ZZSECRET <all caps>
 
 1. Select 0 ListDev - List all devices to obtain the device number.
 
-On my machine 0A80 JASRES1 is where my SYS1.PROCLIB lives.
+   On my machine 0A80 JASRES1 is where my SYS1.PROCLIB lives.
 
 2. Select 3 ListVTOC to list VTOC info for the dataset, in this example SYS1.PROCLIB
 Enter device 0A80 to display dataset listing.
