@@ -14,13 +14,13 @@ Device 0c is the 3505 card reader.
  <b>herc ====></b> devinit 0c c:\hercules4.2\zzsa\zzsacard.bin ebcdic eof   
      also works for tk4 herc ====> devinit 0c c:\tk4\hercules\httproot\zzsacard.bin edcdic eof
 
- <b>herc=====></b>archmode esa/390 
+ herc=====><b>archmode esa/390</b> 
 
- <b>herc=====></b>ipl 0c  
+ herc=====><b>ipl 0c</b>  
 
 Then on 3270 console, press enter. (I'm using Vista TN3270) for x3270 trying pressing control-c for clear
 
-<b>Password: ZZSECRET</b> 
+Password:<b>ZZSECRET</b> 
  
 After you press Enter the main screen will appear.
 
@@ -37,15 +37,15 @@ After you press Enter the main screen will appear.
 
 3. Select 4 to display PDS directory if you don’t know the PDS name or skip this and go to step 4
 
-   <b>Enter dataset===></b>SYS1.PROCLIB
-   <b>Enter the four digit DASD device number ===></b> 0A80
+   Enter dataset===><b>SYS1.PROCLIB</b>
+   Enter the four digit DASD device number ===></b>0A80</b>
    A listing of the members will be displayed.
 
 4. Enter 2 to edit dataset. I'm using the JES2 member for my example.
 
-   <b>Enter dataset===></b>SYS1.PROCLIB
-   <b>Enter member name===></b>JES2
-   and <b>4 digit DASD device number:</b>0A80
+   Enter dataset===><b>SYS1.PROCLIB</b>
+   Enter member name===><b>JES2</b>
+ and 4 digit DASD device number:<b>0A80</b>
 
    Edit your member as needed to correct the issue for JES2 startup <br>
    Exit to save your member and select X Exit to end program and try to IPL as normal.
