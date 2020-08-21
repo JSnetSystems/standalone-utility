@@ -33,12 +33,12 @@ After you press Enter the main screen will appear.
 
 2. Select 3 ListVTOC to list VTOC info for the dataset, in this example SYS1.PROCLIB
    
-   Enter device 0A80 to display dataset listing.
+   Enter device <b>0A80</b> to display dataset listing.
 
 3. Select 4 to display PDS directory if you don’t know the PDS name or skip this and go to step 4
 
    Enter dataset===><b>SYS1.PROCLIB</b>
-   Enter the four digit DASD device number ===></b>0A80</b>
+   Enter the four digit DASD device number ===><b>0A80</b>
    A listing of the members will be displayed.
 
 4. Enter 2 to edit dataset. I'm using the JES2 member for my example.
