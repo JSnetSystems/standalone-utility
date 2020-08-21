@@ -11,12 +11,12 @@ I Tested  on Hercules tk4 and Hyperion 4 versions. This example is from Windows 
 Type the commands in a hercules console: 
 Device 0c is the 3505 card reader.
 
- herc ====> devinit 0c c:\hercules4.2\zzsa\zzsacard.bin ebcdic eof   <enter>
-     also works for tk4 c:\tk4\hercules\httproot\zzsacard.bin edcdic eof
+ herc ====> devinit 0c c:\hercules4.2\zzsa\zzsacard.bin ebcdic eof   
+     also works for tk4 herc ====> devinit 0c c:\tk4\hercules\httproot\zzsacard.bin edcdic eof
 
- herc=====> archmode esa/390 <enter>
+ herc=====> archmode esa/390 
 
- herc=====>ipl 0c  <enter>
+ herc=====>ipl 0c  
 
 Then on 3270 console, press enter. (I'm using Vista TN3270) for x3270 trying pressing control-c for clear
 Password is ZZSECRET <all caps>
