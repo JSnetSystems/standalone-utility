@@ -11,7 +11,7 @@ I Tested  on Hercules tk4 and Hyperion 4 versions. This example is from Windows 
 Type the commands in a hercules console: 
 Device 0c is the 3505 card reader.
 
- herc ====> devinit 0c c:\hercules4.2\zzsa\zzsacard.bin ebcdic eof   
+ <b>herc ====></b> devinit 0c c:\hercules4.2\zzsa\zzsacard.bin ebcdic eof   
      also works for tk4 herc ====> devinit 0c c:\tk4\hercules\httproot\zzsacard.bin edcdic eof
 
  herc=====> archmode esa/390 
@@ -47,5 +47,5 @@ After you press Enter the main screen will appear.
    Enter member name===>JES2
    and 4 digit DASD device number:  0A80
 
-   Edit your member as needed to correct the issue for JES2 startup
+   Edit your member as needed to correct the issue for JES2 startup <br>
    Exit to save your member and select X Exit to end program and try to IPL as normal.
