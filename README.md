@@ -34,7 +34,7 @@ After you press Enter the main screen will appear.
    
    Enter device 0A80 to display dataset listing.
 
-3. Select 4 to display PDS directory, if you don’t know the PDS name or skip this and go to step 4
+3. Select 4 to display PDS directory if you don’t know the PDS name or skip this and go to step 4
 
    Enter dataset===>SYS1.PROCLIB
    Enter the four digit DASD device number ===> 0A80
