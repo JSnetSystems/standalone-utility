@@ -28,7 +28,8 @@ Password is ZZSECRET <all caps>
    On my machine 0A80 JASRES1 is where my SYS1.PROCLIB lives.
 
 2. Select 3 ListVTOC to list VTOC info for the dataset, in this example SYS1.PROCLIB
-Enter device 0A80 to display dataset listing.
+   
+   Enter device 0A80 to display dataset listing.
 
 3. Select 4 to display PDS directory, if you don’t know the PDS name or skip this and go to step 4
 
@@ -37,9 +38,10 @@ Enter device 0A80 to display dataset listing.
    A listing of the members will be displayed.
 
 4. Enter 2 to edit dataset
-Enter dataset===>SYS1.PROCLIB
-Enter member name===>JES2
-and 4 digit DASD device number:  0A80
 
-Edit your member as needed to correct the issue for JES2 startup
-Exit to save your member and select X Exit to end program and try to IPL as normal.
+   Enter dataset===>SYS1.PROCLIB
+   Enter member name===>JES2
+   and 4 digit DASD device number:  0A80
+
+   Edit your member as needed to correct the issue for JES2 startup
+   Exit to save your member and select X Exit to end program and try to IPL as normal.
