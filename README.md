@@ -23,7 +23,7 @@ Password is ZZSECRET <all caps>
  
 After you press Enter the main screen will appear.
 
-![](https://github.com/JSnetSystems/mvs/blob/master/images/ZZSA_Main_Screen.png)
+ ![](https://github.com/JSnetSystems/mvs/blob/master/images/ZZSA_Main_Screen.png)
 
 
 1. Select 0 ListDev - List all devices to obtain the device number.
