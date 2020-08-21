@@ -21,7 +21,7 @@ Device 0c is the 3505 card reader.
 Then on 3270 console, press enter. (I'm using Vista TN3270) for x3270 trying pressing control-c for clear
 Password is ZZSECRET <all caps>
 
-![Main screen](https://github.com/JSnetSystems/mvs/tree/master/images/ZZSA_Main_Screen.png)
+![](https://user-images.githubusercontent.com/33916698/90940001-57e21a00-e3db-11ea-8d47-642bdee676e1.png)
 
 1. Select 0 ListDev - List all devices to obtain the device number.
 
