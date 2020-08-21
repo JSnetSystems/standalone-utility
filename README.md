@@ -19,7 +19,8 @@ Device 0c is the 3505 card reader.
  herc=====>ipl 0c  
 
 Then on 3270 console, press enter. (I'm using Vista TN3270) for x3270 trying pressing control-c for clear
-Password is ZZSECRET <all caps>
+
+Password: ZZSECRET 
  
 After you press Enter the main screen will appear.
 
@@ -40,7 +41,7 @@ After you press Enter the main screen will appear.
    Enter the four digit DASD device number ===> 0A80
    A listing of the members will be displayed.
 
-4. Enter 2 to edit dataset
+4. Enter 2 to edit dataset. I'm using the JES2 member for my example.
 
    Enter dataset===>SYS1.PROCLIB
    Enter member name===>JES2
