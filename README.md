@@ -30,9 +30,9 @@ Password is ZZSECRET <all caps>
 2. Select 3 ListVTOC to list VTOC info for the dataset, in this example SYS1.PROCLIB
 Enter device 0A80 to display dataset listing.
 
-3. Select 4 to display PDS directory, if you don’t know the PDS name or skip this and go to step 4.
+3. Select 4 to display PDS directory, if you don’t know the PDS name or skip this and go to step 4
 Enter dataset===>SYS1.PROCLIB
-Enter 4 digit DASD device number ===> 0A80
+Enter the four digit DASD device number ===> 0A80
 A listing of the members will be displayed.
 
 4. Enter 2 to edit dataset
