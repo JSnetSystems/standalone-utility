@@ -21,7 +21,7 @@ Device 0c is the 3505 card reader.
 Then on 3270 console, press enter. (I'm using Vista TN3270) for x3270 trying pressing control-c for clear
 Password is ZZSECRET <all caps>
  
-After you press <Enter> the main screen will appear.
+After you press Enter the main screen will appear.
 
 ![](https://github.com/JSnetSystems/mvs/blob/master/images/ZZSA_Main_Screen.png)
 
