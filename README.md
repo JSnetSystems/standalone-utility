@@ -31,14 +31,15 @@ Password is ZZSECRET <all caps>
 Enter device 0A80 to display dataset listing.
 
 3. Select 4 to display PDS directory, if you don’t know the PDS name or skip this and go to step 4
-Enter dataset===>SYS1.PROCLIB
-Enter the four digit DASD device number ===> 0A80
-A listing of the members will be displayed.
+
+   Enter dataset===>SYS1.PROCLIB
+   Enter the four digit DASD device number ===> 0A80
+   A listing of the members will be displayed.
 
 4. Enter 2 to edit dataset
 Enter dataset===>SYS1.PROCLIB
 Enter member name===>JES2
 and 4 digit DASD device number:  0A80
 
-Edit you member as needed to correct the issue for JES2 startup
+Edit your member as needed to correct the issue for JES2 startup
 Exit to save your member and select X Exit to end program and try to IPL as normal.
